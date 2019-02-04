@@ -1,0 +1,23 @@
+/* 
+Nombre: Valeria Alejandra Castillo De la Rosa
+Matricula: 1664547 
+Grupo: 003
+Hora: N5
+Fecha: 02/03/19
+
+Titulo: Practica 2
+*/
+
+function setup() {
+  createCanvas(400,400);
+}
+
+function draw() {
+  background(0,0,0);
+  fill(250,0,0);
+  rect(0,0,133,400);
+  fill(0,255,0);
+  rect(133,0,133,400);
+  fill(0,0,100);
+  rect(266,0,133,400);
+}
